@@ -1,4 +1,4 @@
-# flutter_app_plant-UI
+# flutter_app_plant-ui
 
 A new Flutter application.
 
